@@ -1,0 +1,22 @@
+
+.payment.container{
+    margin: 20%;
+    padding:10%;
+}
+.payment form{
+ 
+    
+    margin:10%;
+    padding :0% 10% ;
+    font-size: x-large;
+    width: 80%;
+    height:60%;
+    border: 2px solid  rgb(255, 255, 255);
+    border-radius: 1rem;
+    box-shadow: 4px 4px rgb(43, 40, 40);
+    background-color: rgb(141, 177, 218);
+    color:#000 !important;
+}
+form h1{
+    text-align: center;
+}
